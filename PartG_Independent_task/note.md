@@ -1,0 +1,3 @@
+Independent Student Task
+
+A second hidden evidence file named Idriss_Muhammad_Abdullahi_hidden_note.txt was created containing a brief explanation of steganography and its importance in digital forensics. The file was embedded into the carrier image using a personally selected password. After embedding, the hidden note was successfully extracted and verified through SHA-256 hash comparison. A custom wordlist containing the chosen password was created, and the password recovery workflow was tested successfully. The practical demonstrated my ability to independently perform steganographic embedding, extraction, verification, and password recovery procedures.
